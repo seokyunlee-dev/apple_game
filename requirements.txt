@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pillow
+pynput
+
+# OCR options (install one)
+# pytesseract
+# easyocr
